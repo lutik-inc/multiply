@@ -1,0 +1,9 @@
+{
+  "name": "multiply",
+  "version": "0.7.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lutik-inc/muliply.git"
+  },
+  "license": "MIT"
+}
